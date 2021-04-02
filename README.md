@@ -1,6 +1,8 @@
 # bayes-irt
 Some practice code for fitting an item response model the Bayesian way - especially when the probability of a Bernoulli random variable changes on every trial.
 
+Here is the main documentation to get started with PyMC3: https://docs.pymc.io/notebooks/getting_started.html
+
 # Basic Idea
 I worked with item response models before in my thesis work, but I had done the Bayesian modeling in JAGS and MATLAB. Since I've been learning Python, I wanted to try doing the same kinds of analyses using the pymc3 package. 
 
